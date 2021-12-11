@@ -167,3 +167,27 @@ body{
         font-size: 140%;
     }
 }
+
+
+
+
+
+
+/* team css */
+
+.team-image{
+    width: 60%;
+}
+
+.teamhover{
+    text-decoration: none;
+    color: black;
+}
+
+.project-links{
+    color: #f98e4b;
+}
+
+.HarPaintingteam{
+    background-color: #fbf6f3;
+}
