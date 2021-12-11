@@ -1,0 +1,128 @@
+body{
+    overflow-x: hidden; 
+    
+}
+.navbar{
+    
+    overflow-x: hidden;
+}
+
+
+#link{
+    color: black;
+    font-weight: 600;
+}
+
+#link:hover{
+    color: #f98e4b;
+}
+
+.highlight-text{
+    color: #f98e4b;
+}
+
+
+
+.painting-head{
+    font-weight: 700;
+    text-align: left;
+}
+
+.header2-text{
+    font-weight: 400;
+    font-size: 97%;
+    text-align: left;
+}
+
+.headvideo{
+    border-radius: 5%;
+}
+
+.btn-explore{
+    color: white;
+    background-color: #f98e4b;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.header-text{
+    font-weight: 700;
+}
+
+.highlight-text{
+    color: #f98e4b;
+}
+
+.aboutheader2-text{
+    font-weight: 300;
+    font-size: 140%;
+    text-align: center;
+}
+
+.club-header3-text{
+    font-weight: 300;
+    font-size: 120%;
+}
+
+.About-us{
+    background-color:#fbf6f3 ;
+}
+
+.learn{
+    background-color: white;
+    border-radius: 5%;
+
+}
+
+
+.card{
+    border: none;
+}
+
+
+
+
+
+
+  .fb:hover{
+    color: #3B5998
+  }
+  
+  .WA:hover{
+      color: #25D366;
+  }
+
+  .GM:hover{
+      color: #d34836;
+  }
+  .Ins:hover{
+      color: #8a3ab9;
+  }
+  .LI:hover{
+      color: #3B5998;
+  }
+   
+  .DC:hover{
+      color:#5865F2;
+  }
+
+.YU:hover{
+    color: #d34836;
+}
+
+@media (min-width: 320px) and (max-width: 700px){
+
+    .painting-head{
+        text-align: center;
+    }
+    .btn-explore{
+        text-align: center;
+    }
+    .explore-btn{
+        text-align: center;
+    }
+    
+    
+}

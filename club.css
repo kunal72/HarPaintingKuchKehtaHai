@@ -1,0 +1,50 @@
+body{
+    overflow-x: hidden; 
+    
+}
+.navbar{
+    
+    overflow-x: hidden;
+}
+
+#link{
+    color: black;
+    font-weight: 600;
+}
+
+#link:hover{
+    color: #f98e4b;
+}
+
+.HarPaintingStudio{
+    background-color: #fbf6f3;
+}
+
+.highlight-text{
+    color: #f98e4b;
+}
+.header-text{
+    font-weight: 700;
+    font-size: 200%;
+}
+
+.btn-explore{
+    color: white;
+    background-color: #f98e4b;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.aboutheader2-text-harpaintingstudio{
+    font-size: 165%;
+}
+
+.Join-us{
+    background-color: #fbf6f3;
+}
+
+.logocolor{
+    color: #f98e4b;
+}

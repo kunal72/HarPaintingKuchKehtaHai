@@ -1,0 +1,126 @@
+body{
+    overflow-x: hidden; 
+    
+}
+.navbar{
+    
+    overflow-x: hidden;
+}
+
+#link{
+    color: black;
+    font-weight: 600;
+}
+
+#link:hover{
+    color: #f98e4b;
+}
+
+.highlight-text{
+    color: #f98e4b;
+}
+
+
+
+.header-text{
+    font-weight: 700;
+    text-align: center;
+    
+}
+.header2-text{
+    font-weight: 400;
+    font-size: 97%;
+    text-align: left;
+}
+
+.whatsapp-btn{
+    font-size: 88%;
+    color: white;
+    background-color: #25D366;
+}
+
+
+.discord-btn{
+    font-size: 96%;
+    color: white;
+    background-color: #5865F2;
+}
+
+.whatsapp-btn:hover,.discord-btn:hover{
+    color: white;
+}
+
+.Join-us{
+    background-color: #fbf6f3;
+}
+
+.headvideo{
+    border-radius: 5%;
+}
+
+.logocolor{
+    color: #f98e4b;
+}
+
+.aboutheader2-text{
+    font-weight: 300;
+    font-size: 140%;
+}
+
+
+
+
+.swiper-slide{
+    width: 100%;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-slide:nth-child(2n) {
+  width: 40%;
+}
+
+.swiper-slide:nth-child(3n) {
+  width: 20%;
+}
+
+.card{
+    border: none;
+}
+
+.testimonial{
+    background-color: #fbf6f3;
+}
+
+
+
+  .fb:hover{
+    color: #3B5998
+  }
+  
+  .WA:hover{
+      color: #25D366;
+  }
+
+  .GM:hover{
+      color: #d34836;
+  }
+  .Ins:hover{
+      color: #8a3ab9;
+  }
+  .LI:hover{
+      color: #3B5998;
+  }
+   
+  .DC:hover{
+      color:#5865F2;
+  }
+
+.YU:hover{
+    color: #d34836;
+}
