@@ -112,6 +112,11 @@ body{
     color: #d34836;
 }
 
+
+.testimonial{
+    background-color: #fbf6f3;
+}
+
 @media (min-width: 320px) and (max-width: 700px){
 
     .painting-head{
